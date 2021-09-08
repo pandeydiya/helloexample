@@ -1,0 +1,4 @@
+after git add . it becomes A means added 
+this means we are telling git to be stacked.
+now we see M on left folders then it means modified.
+now we will commmit.
